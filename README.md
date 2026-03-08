@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ElvisEnesi
-- 👀 I’m interested in web development and programming
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- Full stack web dev & cyber security agent
 - 💞️ I’m looking to collaborate on projects with you
 - 📫 How to reach me, email me via jattoelvis00@gmail.com
 
